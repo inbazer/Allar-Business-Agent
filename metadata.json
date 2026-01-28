@@ -1,0 +1,7 @@
+{
+  "name": "ALLAR AI",
+  "description": "Premium AI consultant for business decision-making and fundraising, built for speed and clarity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
